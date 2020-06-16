@@ -1,0 +1,9 @@
+Spanning-Tree {
+
+    Root: B;
+    A - B;
+    C - D;
+    D - E;
+    E - B;
+    F - E;
+}
